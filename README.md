@@ -46,12 +46,6 @@ This repository contains a Power BI dashboard project that analyzes Google Play 
 
 ---
 
-## 📸 Dashboard Preview:
-
-![Dashboard Screenshot](preview.png)
-
----
-
 ## 📌 Note:
 This is a beginner-friendly project to practice Power BI dashboard creation and storytelling with data. Ideal for learning or showcasing in portfolios.
 
