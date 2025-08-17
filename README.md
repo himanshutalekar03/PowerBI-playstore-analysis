@@ -42,7 +42,7 @@ This repository contains a Power BI dashboard project that analyzes Google Play 
 
 ## 🛠 Tools Used:
 - Power BI Desktop
-- Dataset: Cleaned Google Play Store data (from Kaggle or similar source)
+- Dataset: Cleaned Google Play Store data 
 
 ---
 
